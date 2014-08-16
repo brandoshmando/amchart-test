@@ -7,8 +7,9 @@ body {
   margin: 0;
   padding: 0;
 }
-.chartdiv {
-  width: 80%;
-  height: 12em;
-  position: relative;
+#chartdiv {
+  width: 600px;
+  height: 300px;
+  border: 1px solid black;
+
 }
